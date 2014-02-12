@@ -10,8 +10,7 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          http://muan.co
-    external:     true
+    url:          http://plan-trips.com
 pygments:         true
 permalink:        pretty
 markdown:         redcarpet
